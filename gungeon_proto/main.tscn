@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://b6bt1xoul28hn"]
+
+[ext_resource type="Script" uid="uid://cue4xqguedl5u" path="res://gungeon_proto/dungeon_main_m5.gd" id="1_main"]
+
+[node name="Main" type="Node2D" unique_id=620393725]
+script = ExtResource("1_main")
